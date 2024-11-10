@@ -9,7 +9,7 @@ The top line is a Heltec ESP32 LoRa V3 board in Swizerland.
 Yet no connection, but maybe connection could be established over the course of this afternoon.
 
 * UPDATE
-  I successfully connected to TTN on the aitport Munich arriving from Geneva. I used my powerbank to suppy the V3 Heltec Board.  🫣
+  I successfully connected to TTN on Munich Airport arriving from Geneva. I used my powerbank to suppy the V3 Heltec Board.  🫣
 
 
 
